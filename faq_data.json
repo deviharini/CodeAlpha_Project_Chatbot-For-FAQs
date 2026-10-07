@@ -1,0 +1,42 @@
+[
+    {
+        "question": "What is the internship duration?",
+        "answer": "The internship duration is 8 weeks."
+    },
+    {
+        "question": "How can I apply for the internship?",
+        "answer": "You can apply through the official internship application portal or the application link provided by the organization."
+    },
+    {
+        "question": "Is the internship paid?",
+        "answer": "The internship may be paid or unpaid depending on the internship program. Please check the specific internship details."
+    },
+    {
+        "question": "How do I submit my tasks?",
+        "answer": "Complete your assigned task and submit it using the method specified by your mentor or internship coordinator."
+    },
+    {
+        "question": "What happens if I miss the deadline?",
+        "answer": "Contact your mentor as soon as possible and explain the reason for the delay. The mentor can provide further instructions."
+    },
+    {
+        "question": "How can I contact my mentor?",
+        "answer": "You can contact your mentor through the communication channel provided by your internship program."
+    },
+    {
+        "question": "Will I receive an internship certificate?",
+        "answer": "Certificate eligibility depends on successfully completing the internship requirements and tasks."
+    },
+    {
+        "question": "Can I work remotely?",
+        "answer": "Remote work depends on the internship program and the organization. Check your internship instructions."
+    },
+    {
+        "question": "How many tasks do I need to complete?",
+        "answer": "The number of tasks depends on your internship program and the assignments given by your mentor."
+    },
+    {
+        "question": "What technologies can I use?",
+        "answer": "You can use the technologies specified in your internship task requirements. For this project, we are using Python, NLTK, Flask, HTML, CSS, and JavaScript."
+    }
+]
